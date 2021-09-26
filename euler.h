@@ -1,0 +1,2 @@
+int multiples();
+int sumSquare();
